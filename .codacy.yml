@@ -1,2 +1,3 @@
 exclude_paths:
   - 'src/test/**/*Spec.scala'
+  - 'src/test/**/*Spec.scala.jhb'
